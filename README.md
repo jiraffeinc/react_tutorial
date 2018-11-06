@@ -13,8 +13,8 @@ https://reactjs.org/tutorial/tutorial.html
 - [ ] 5.When someone wins, highlight the three squares that caused the win.
 
 ### 3.更に仕様追加
-要件が満たされていれば、UI設計などはお任せします。
-適時モーダルやreact-routerなどを使用すると面白いかもしれません。
+要件が満たされていれば、UI設計などはお任せします。  
+設定画面などに適時モーダルやreact-routerなどを使用すると面白いかもしれません。
 
 #### 1.リファクタリング
 - [ ] ・クラス毎にファイルを分割してES Moduleでロードする形にしてみましょう
