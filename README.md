@@ -36,3 +36,6 @@ https://reactjs.org/tutorial/tutorial.html
 - [ ] ・対局履歴を選択し、閲覧ボタンを押下でその対局履歴を表示
 - [ ] 　・対局履歴閲覧時には変更不可に
 - [ ] ・対局履歴をlocal storgeを利用して永続化
+
+
+## ツッコミやPR募集中です！！
