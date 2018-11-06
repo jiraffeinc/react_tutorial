@@ -38,6 +38,6 @@ https://reactjs.org/tutorial/tutorial.html
 - [ ] ・対局履歴をlocal storgeを利用して永続化
 
 #### 5.state管理をfluxアーキテクチャにする
-- [ ] ・stateの管理を[redux](https://github.com/reactjs/redux)などのfluxアーキテクチャに載せ替えてみましょう (これが一番難易度高めので後回しでOKです)
+- [ ] ・stateの管理を[redux](https://github.com/reactjs/redux)などのfluxアーキテクチャに載せ替えてみましょう (これが一番難易度高めなので後回しでOKです)
 
 ## ツッコミやPR募集中です！！
